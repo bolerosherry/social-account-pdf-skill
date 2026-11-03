@@ -1,0 +1,294 @@
+{
+  "client_company_name": "青屿生活有限公司（模板示例）",
+  "platform": "xiaohongshu",
+  "account_subject": "brand",
+  "account_name": "青屿生活研究所",
+  "account_url": "https://example.com/demo-account",
+  "generated_date": "2026-10-31",
+  "data_date": "2026-10-31",
+  "stage": "内容调整期",
+  "account_bio": "青屿生活，记录居家小事与日常灵感。这里分享我们的产品、空间和生活片段。（虚构示例）",
+  "profile_screenshot_note": "虚构示例未填入真实主页截图。",
+  "current_content_types": ["产品展示", "空间布置", "团队日常记录"],
+  "goal": "关注",
+  "summary": "账号具备稳定的生活方式素材，但用户关注价值没有被直接表达。",
+  "opportunity": "将产品展示转为具体生活场景问题，形成可持续的栏目识别。",
+  "metrics": {
+    "粉丝量": "12,480",
+    "获赞与收藏": "86,000",
+    "更新频率": "每周 2-3 次",
+    "近期平均互动": "320",
+    "最高互动内容": "2,160",
+    "数据截取日期": "2026-10-31"
+  },
+  "diagnoses": [
+    {
+      "dimension": "定位",
+      "conclusion": "主页能看出生活方式属性，但没有说明用户为什么要持续关注。",
+      "evidence": "简介以品牌信息为主，缺少明确用户价值。",
+      "evidence_type": "fact"
+    },
+    {
+      "dimension": "内容",
+      "conclusion": "内容题材丰富，但栏目关系松散，用户难以形成稳定预期。",
+      "evidence": "近期内容在产品、空间与日常记录之间频繁切换。",
+      "evidence_type": "fact"
+    },
+    {
+      "dimension": "表达",
+      "conclusion": "画面完成度较高，但标题过于描述性，点击动机不足。",
+      "evidence": "多数标题只复述画面，没有给出问题或结果。",
+      "evidence_type": "fact"
+    },
+    {
+      "dimension": "转化",
+      "conclusion": "账号已经具备信任素材，但内容与主页承接路径没有形成闭环。",
+      "evidence": "基于公开主页和内容结构作出的判断。",
+      "evidence_type": "inference"
+    }
+  ],
+  "problems": [
+    {
+      "title": "关注理由不够明确",
+      "evidence": "简介和置顶内容没有用一句话说明账号能持续解决什么问题。",
+      "impact": "新用户看懂了品类，但没有充分理由关注。",
+      "action": "用具体人群、场景和内容收益重写简介及置顶内容。",
+      "priority": "high"
+    },
+    {
+      "title": "内容支柱缺少固定比例",
+      "evidence": "产品、场景和品牌日常随机出现，没有稳定栏目。",
+      "impact": "内容生产依赖临时灵感，也难以复盘哪类内容有效。",
+      "action": "建立三个内容支柱并固定栏目名称与发布比例。",
+      "priority": "high"
+    },
+    {
+      "title": "标题没有放大用户需求",
+      "evidence": "近期标题以物品名称和场景描述为主。",
+      "impact": "优质画面没有转化成足够的点击和收藏。",
+      "action": "优先使用场景问题、结果承诺和对比型标题。",
+      "priority": "medium"
+    }
+  ],
+  "positioning": "青屿生活面向预算与时间有限的城市年轻人，以具体居家场景、实用方法和真实使用对比，建立可照做、可信赖的生活品牌认知。",
+  "target_audience": "关注居家、饮食与日常仪式感，但没有太多时间和预算的城市年轻人",
+  "follow_reason": "每周获得可以立即照做的生活场景方案，而不是单纯观看产品展示",
+  "pillars": [
+    {
+      "name": "场景解决方案",
+      "ratio": 50,
+      "columns": [
+        "小空间改善",
+        "工作日快速方案"
+      ],
+      "purpose": "解决具体生活问题，建立搜索与收藏价值",
+      "format": "场景实拍 / 步骤图文"
+    },
+    {
+      "name": "真实体验与对比",
+      "ratio": 30,
+      "columns": [
+        "使用前后",
+        "真实测评记录"
+      ],
+      "purpose": "用真实体验说明选择理由，建立产品信任",
+      "format": "对比图文 / 使用记录"
+    },
+    {
+      "name": "品牌人物与日常",
+      "ratio": 20,
+      "columns": [
+        "团队选择",
+        "幕后过程"
+      ],
+      "purpose": "让用户看见品牌背后的人和选择标准",
+      "format": "人物口播 / 幕后实拍"
+    }
+  ],
+  "benchmark_review_complete": false,
+  "benchmarks": [
+    {
+      "name": "同赛道示例账号",
+      "platform": "xiaohongshu",
+      "account_kind": "brand",
+      "brand_identity_evidence": "虚构版式示例。实际使用时填该品牌官方入口或认证主体的核验依据。",
+      "benchmark_type": "same_industry",
+      "reason": "内容定位与目标用户接近，栏目结构清晰。",
+      "learn": "学习以生活问题组织产品内容。",
+      "avoid": "不照搬其高成本布景。",
+      "recent_performance": "虚构示例。近四周发布8篇，单篇收藏数在12至86之间。",
+      "content_analysis": "封面提出一个具体居家问题，正文用场景实拍演示解决步骤。",
+      "user_confirmed": false,
+      "verified": false,
+      "source_note": "虚构版式示例，非已核验账号"
+    },
+    {
+      "name": "成长阶段示例账号",
+      "platform": "xiaohongshu",
+      "account_kind": "brand",
+      "brand_identity_evidence": "虚构版式示例。实际使用时填该品牌官方入口或认证主体的核验依据。",
+      "benchmark_type": "same_stage",
+      "reason": "粉丝体量与更新资源接近，可执行性较强。",
+      "learn": "学习低成本系列化封面。",
+      "avoid": "不复制其个人化表达。",
+      "recent_performance": "虚构示例。近四周发布6篇，其中4篇为同一系列，单篇可见评论在3至12条之间。",
+      "content_analysis": "固定栏目名与封面布局，每篇围绕一个小空间的使用困难。",
+      "user_confirmed": false,
+      "verified": false,
+      "source_note": "虚构版式示例，非已核验账号"
+    },
+    {
+      "name": "内容形式示例账号",
+      "platform": "xiaohongshu",
+      "account_kind": "brand",
+      "brand_identity_evidence": "虚构版式示例。实际使用时填该品牌官方入口或认证主体的核验依据。",
+      "benchmark_type": "format",
+      "reason": "跨赛道但场景化讲解结构值得参考。",
+      "learn": "学习先给结果再解释方法。",
+      "avoid": "不直接套用其行业术语。",
+      "recent_performance": "虚构示例。近四周发布6条短视频，最近3条可见评论分别为7条、11条与9条。",
+      "content_analysis": "开头先展示完成后的效果，再通过前后对照说明关键操作。",
+      "user_confirmed": false,
+      "verified": false,
+      "source_note": "虚构版式示例，非已核验账号"
+    }
+  ],
+  "topic_directions": [
+    "具体场景问题",
+    "低成本改善",
+    "真实使用对比"
+  ],
+  "trend_note": "本页为虚构选题演示。季节选题仅展示节点结合方法；正式方案的热点须在生成时重新核验。",
+  "topics": [
+    {
+      "title": "租房客最值得先改的三个角落",
+      "direction": "低成本改善",
+      "format": "图文",
+      "priority": "high"
+    },
+    {
+      "title": "下班后十分钟恢复房间秩序",
+      "direction": "具体场景问题",
+      "format": "短视频",
+      "priority": "high"
+    },
+    {
+      "title": "同样预算，为什么这套方案更耐用",
+      "direction": "真实使用对比",
+      "format": "图文",
+      "priority": "high"
+    },
+    {
+      "title": "小空间显乱，通常不是东西太多",
+      "direction": "具体场景问题",
+      "format": "口播",
+      "priority": "medium"
+    },
+    {
+      "title": "一周真实使用后，我们留下了什么",
+      "direction": "真实使用对比",
+      "format": "短视频",
+      "priority": "medium"
+    },
+    {
+      "title": "秋冬居家最容易被忽略的舒适细节",
+      "direction": "低成本改善",
+      "format": "图文",
+      "priority": "medium"
+    },
+    {
+      "title": "预算五百元，如何先解决最常用场景",
+      "direction": "低成本改善",
+      "format": "口播",
+      "priority": "medium"
+    },
+    {
+      "title": "看起来好用和真的好用差在哪里",
+      "direction": "真实使用对比",
+      "format": "短视频",
+      "priority": "medium"
+    },
+    {
+      "title": "周末不大扫除，也能让家快速清爽",
+      "direction": "具体场景问题",
+      "format": "图文",
+      "priority": "low"
+    },
+    {
+      "title": "团队最近反复使用的三个小方法",
+      "direction": "真实使用对比",
+      "format": "短视频",
+      "priority": "low"
+    },
+    {
+      "title": "早晨出门总找不到钥匙，玄关先改哪里",
+      "direction": "具体场景问题",
+      "format": "图文",
+      "priority": "high"
+    },
+    {
+      "title": "一张餐桌兼顾办公和吃饭，怎样快速切换",
+      "direction": "具体场景问题",
+      "format": "短视频",
+      "priority": "medium"
+    },
+    {
+      "title": "小厨房备餐总拥挤，先理顺哪条动线",
+      "direction": "具体场景问题",
+      "format": "图文",
+      "priority": "medium"
+    },
+    {
+      "title": "不添置新家具，先试这三个调整",
+      "direction": "低成本改善",
+      "format": "短视频",
+      "priority": "high"
+    },
+    {
+      "title": "买收纳盒之前，先量好哪几个尺寸",
+      "direction": "低成本改善",
+      "format": "图文",
+      "priority": "medium"
+    },
+    {
+      "title": "周末只留半小时，先改善最常用的角落",
+      "direction": "低成本改善",
+      "format": "口播",
+      "priority": "low"
+    },
+    {
+      "title": "同一件用品，两种摆法用一周有什么不同",
+      "direction": "真实使用对比",
+      "format": "短视频",
+      "priority": "medium"
+    },
+    {
+      "title": "哪些生活小物用过后没有留下",
+      "direction": "真实使用对比",
+      "format": "图文",
+      "priority": "low"
+    }
+  ],
+  "screenshots": [],
+  "sample_mode": true,
+  "slogan": "把生活过好，从一个小场景开始",
+  "content_style": "实用、温和、可照做；以真实场景和使用结果为主要画面。",
+  "optimization_logic": [
+    "产品与日常的分散展示",
+    "重组为用户场景问题",
+    "形成可复用的内容栏目"
+  ],
+  "conversion_path": [
+    "场景内容吸引",
+    "主页置顶解答",
+    "适用产品说明",
+    "咨询或店铺承接"
+  ],
+  "production_loop": [
+    "确定主题与目标人群",
+    "筛选选题并确认表达形式",
+    "集中拍摄与素材整理",
+    "内容审核后发布",
+    "复盘互动并调整下一轮选题"
+  ]
+}

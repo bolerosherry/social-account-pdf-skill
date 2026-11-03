@@ -1,0 +1,9 @@
+interface:
+  display_name: "动量领航账号方案"
+  short_description: "手动调用动量领航固定模板，交付 PDF 或可复制到飞书的文字"
+  brand_color: "#4F8F23"
+  default_prompt: "动量领航方案。请使用 $social-account-pdf-skill，先确认本次是否需要素人帖铺量以及交付PDF还是飞书文字；若选择铺量，请给我至少15个方向和拟题供确认，并请我上传种草帖截图作为示例。品牌项目的对标清单只选已核实的品牌自营账号。"
+
+policy:
+  allow_implicit_invocation: false
+
